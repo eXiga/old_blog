@@ -1,14 +1,18 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: How can you find me?
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why it's hard to put a form on a Jekyll site.
+There are several places, where you can find me. I can't promise, that I will answer you immediately, but I will try to do it as soon as possible (I have fulltime job, beautiful wife ❤️ and a bunch of hobbies, so, please understand any delays :) )
 
-Here listed some resources which provide  a saas service as a backend for forms (contact forms, hiring forms, etc.) to designers and developers like you:
-1. [Formspree (also open source, free)](https://formspree.io/)
-2. [FormKeep](https://formkeep.com/guides/contact-form-jekyll)
-3. [Simple Form](https://getsimpleform.com/)
+1. [Github page](http://github.com/eXiga).
+2. [Twitter account](http://twitter.com/AntonKostenich).
+3. [Linkedin page](https://www.linkedin.com/in/anton-kastsenich/).
+4. My email is: anton.kostenich@hotmail.com.
+5. Skype: antonkostenich.
+6. Telegram: @akostenich.
 
-[Go to the Home Page](./)
+Feel free to write me! :)
+
+There are my [posts]({{ site.url }}).
