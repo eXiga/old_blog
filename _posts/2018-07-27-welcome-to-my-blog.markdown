@@ -4,7 +4,7 @@ title:  "Welcome to my blog!"
 date:   2018-07-27 16:02:47 +0200
 ---
 
-What's up fellas,
+What's up, fellas?
 
 What is the most famous way to start your own blog? To tell ya once again how I created it! :D
 
